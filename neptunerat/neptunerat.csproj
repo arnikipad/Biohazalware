@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: \\VBOXSVR\B4s3\ToxicDatabase-main\Tools\NeptuneRAT\NeptuneRAT.7z\neptunerat.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DF920D34-191B-43F8-82B9-0B8E6105CC43}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>NeptuneRAT Free Version V2</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <ApplicationVersion>2.2.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GMap.NET.Core">
+      <HintPath>lib\GMap.NET.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms">
+      <HintPath>lib\GMap.NET.WindowsForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>lib\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="IconExtractor">
+      <HintPath>lib\IconExtractor.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="NAudio">
+      <HintPath>lib\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="SimpleObfuscator">
+      <HintPath>lib\SimpleObfuscator.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="⚔️MasonRAT✌؍؈ٺ؈̍؍گڣ؈ـ؋حڙ؈؊؏ـۜــ.cs" />
+    <Compile Include="⚔️MasonRAT✌؉؈بـطڞـ؊؊؎؈ٻﯧﻼ؎ۚ؉.cs" />
+    <Compile Include="⚔️MasonRAT✌؍؍ﻻ؊ڣـۭۚ؊؊ٺۭۧ.cs" />
+    <Compile Include="⚔️MasonRAT✌ڙـ؉ټــ،ٺ؍؊؉؉؁ڼ.cs" />
+    <Compile Include="Microsoft\VisualBasic\Embedded.cs" />
+    <Compile Include="NeptuneRAT\EXEICO.cs" />
+    <Compile Include="NeptuneRAT\check.cs" />
+    <Compile Include="NeptuneRAT\FM.cs" />
+    <Compile Include="NeptuneRAT\DDos.cs" />
+    <Compile Include="NeptuneRAT\Form1.cs" />
+    <Compile Include="NeptuneRAT\ChangePort.cs" />
+    <Compile Include="NeptuneRAT\Fun.cs" />
+    <Compile Include="NeptuneRAT\INFO.cs" />
+    <Compile Include="NeptuneRAT\Maps.cs" />
+    <Compile Include="NeptuneRAT\MIC.cs" />
+    <Compile Include="NeptuneRAT\1Info.cs" />
+    <Compile Include="NeptuneRAT\GrabberPass.cs" />
+    <Compile Include="NeptuneRAT\Port.cs" />
+    <Compile Include="NeptuneRAT\Process.cs" />
+    <Compile Include="NeptuneRAT\Programs.cs" />
+    <Compile Include="NeptuneRAT\Ransomware.cs" />
+    <Compile Include="NeptuneRAT\RemoteDesktop.cs" />
+    <Compile Include="NeptuneRAT\Sound.cs" />
+    <Compile Include="NeptuneRAT\ReomteShell.cs" />
+    <Compile Include="NeptuneRAT\WebCam.cs" />
+    <Compile Include="NeptuneRAT\GeoIP.cs" />
+    <Compile Include="NeptuneRAT\HashG.cs" />
+    <Compile Include="NeptuneRAT\Helper.cs" />
+    <Compile Include="NeptuneRAT\IconInjector.cs" />
+    <Compile Include="NeptuneRAT\LV.cs" />
+    <Compile Include="NeptuneRAT\Client.cs" />
+    <Compile Include="NeptuneRAT\Server.cs" />
+    <Compile Include="NeptuneRAT\Messages.cs" />
+    <Compile Include="NeptuneRAT\Incoming_Requests.cs" />
+    <Compile Include="NeptuneRAT\Outcoming_Requests.cs" />
+    <Compile Include="NeptuneRAT\Pending.cs" />
+    <Compile Include="NeptuneRAT\Settings.cs" />
+    <Compile Include="NeptuneRAT\My\MyApplication.cs" />
+    <Compile Include="NeptuneRAT\My\MyComputer.cs" />
+    <Compile Include="NeptuneRAT\My\MyProject.cs" />
+    <Compile Include="NeptuneRAT\My\InternalXmlHelper.cs" />
+    <Compile Include="NeptuneRAT\My\MySettings.cs" />
+    <Compile Include="NeptuneRAT\My\MySettingsProperty.cs" />
+    <Compile Include="NeptuneRAT\My\Resources\Resources.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
