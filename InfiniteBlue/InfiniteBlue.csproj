@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\adriel\Downloads\InfiniteBlue.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EADFA2A4-3724-48C6-B61C-279128536389}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>InfiniteBlue</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>A</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="_003CModule_003E.cs" />
+    <Compile Include="InfiniteBlue\Properties\Settings.cs" />
+    <Compile Include="_001D.cs" />
+    <Compile Include="AssemblyInfoAttribute.cs" />
+    <Compile Include="_0012.cs" />
+    <Compile Include="_0010.cs" />
+    <Compile Include="_0012_0012.cs" />
+    <Compile Include="_000B.cs" />
+    <Compile Include="_0008.cs" />
+    <Compile Include="_0019.cs" />
+    <Compile Include="_0009.cs" />
+    <Compile Include=" .cs" />
+    <Compile Include="_0015.cs" />
+    <Compile Include="_0005.cs" />
+    <Compile Include="_001E.cs" />
+    <Compile Include="_001D_0012.cs" />
+    <Compile Include="_0011.cs" />
+    <Compile Include="_0017.cs" />
+    <Compile Include="_0013.cs" />
+    <Compile Include="_0006.cs" />
+    <Compile Include="_000C.cs" />
+    <Compile Include="_0004.cs" />
+    <Compile Include="_000A_0012.cs" />
+    <Compile Include="_0001_0010.cs" />
+    <Compile Include="_0001_0012.cs" />
+    <Compile Include="_0002_0010.cs" />
+    <Compile Include="_0002_0012.cs" />
+    <Compile Include="_0003_0012.cs" />
+    <Compile Include="_0004_0012.cs" />
+    <Compile Include="_0005_0010.cs" />
+    <Compile Include="_0005_0012.cs" />
+    <Compile Include="_0006_0010.cs" />
+    <Compile Include="_0006_0012.cs" />
+    <Compile Include="_0007_0012.cs" />
+    <Compile Include="_0008_0010.cs" />
+    <Compile Include="_0008_0012.cs" />
+    <Compile Include="_000E_0010.cs" />
+    <Compile Include="_000E_0012.cs" />
+    <Compile Include="_000F_0010.cs" />
+    <Compile Include="_000F_0012.cs" />
+    <Compile Include="_0010_0010.cs" />
+    <Compile Include="_0011_0010.cs" />
+    <Compile Include="_0011_0012.cs" />
+    <Compile Include="_0012_0010.cs" />
+    <Compile Include="_0013_0010.cs" />
+    <Compile Include="_0013_0012.cs" />
+    <Compile Include="_0014_0012.cs" />
+    <Compile Include="_0015_0010.cs" />
+    <Compile Include="_0015_0012.cs" />
+    <Compile Include="_0016_0010.cs" />
+    <Compile Include="_0016_0012.cs" />
+    <Compile Include="_0017_0012.cs" />
+    <Compile Include="_0018_0010.cs" />
+    <Compile Include="_0018_0012.cs" />
+    <Compile Include="_0019_0010.cs" />
+    <Compile Include="_0019_0012.cs" />
+    <Compile Include="_001A_0010.cs" />
+    <Compile Include="_001A_0012.cs" />
+    <Compile Include="_001B_0012.cs" />
+    <Compile Include="_001C_0012.cs" />
+    <Compile Include="_001D_0010.cs" />
+    <Compile Include="_001E_0010.cs" />
+    <Compile Include="_001E_0012.cs" />
+    <Compile Include="_001F_0010.cs" />
+    <Compile Include="_001F_0012.cs" />
+    <Compile Include=" _0010.cs" />
+    <Compile Include=" _0012.cs" />
+    <Compile Include="_0009_0010.cs" />
+    <Compile Include="_0009_0012.cs" />
+    <Compile Include="_000A_0010.cs" />
+    <Compile Include="_000B_0010.cs" />
+    <Compile Include="_000B_0012.cs" />
+    <Compile Include="_000C_0012.cs" />
+    <Compile Include="_000D_0010.cs" />
+    <Compile Include="_000D_0012.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="InfiniteBlue_0026_0026" />
+    <EmbeddedResource Include="InfiniteBlue_002A" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
