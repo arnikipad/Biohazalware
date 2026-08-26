@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\adriel\Downloads\SOCIAL CREDIT TEST.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{17C87AC6-E883-458A-9E76-F7880F9702FA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>SOCIAL CREDIT TEST</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="_003CModule_003E.cs" />
+    <Compile Include="⁬⁭⁮‍⁯‬‪⁬⁪‫⁫‏⁪‌⁪‪‌⁮⁪⁮‎‍‎⁮‪‫⁭⁭‍⁫⁫‫‎​‭⁫⁬‫​‏‮.cs" />
+    <Compile Include="‫‏‭‪‮⁫‫⁮⁬‫‪‍‮‫​‪⁯​‍‏‫‫‬‍⁪‪⁪‭⁬‏‍‎‎⁫‌‮‍‌‏‬‮.cs" />
+    <Compile Include="⁯‍‍‬⁭‎‎‏‭‪⁭⁯‎‌‫‪​‏⁫⁯‏⁭‪‪‪‪⁪⁫‪‏‮⁮‏⁫‪‪⁬‎‬⁪‮.cs" />
+    <Compile Include="L47_tV91}lx=cDU!4n1=]_007CDK$.cs" />
+    <Compile Include="⁯‍‌⁫⁪‮⁪‏‫‫‍‪‏⁭⁫‎‍⁬​⁫⁫‭‫‍⁮‬‫⁭⁫⁮‍‌⁫⁭⁪‮‮‎‫⁮‮.cs" />
+    <Compile Include="‌‎‬‪⁪‫‭⁫​⁪⁫⁮‎‍⁭⁪‏‮‫⁭⁭‌⁭⁮‬‎⁫‌‏​‬‭⁪​⁭‭⁭‭‎‎‮.cs" />
+    <Compile Include="ConfusedByAttribute.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="alarm" />
+    <Resource Include="amogas" />
+    <Resource Include="amogus" />
+    <Resource Include="apology" />
+    <Resource Include="bad" />
+    <Resource Include="bass_imposta_sound" />
+    <Resource Include="bom" />
+    <Resource Include="clap" />
+    <Resource Include="fart" />
+    <Resource Include="fnaf" />
+    <Resource Include="hell_no" />
+    <Resource Include="ice_cream" />
+    <Resource Include="omg" />
+    <Resource Include="rock" />
+    <Resource Include="scream" />
+    <Resource Include="sussybaka" />
+    <Resource Include="theme" />
+    <Resource Include="ustupid" />
+    <Resource Include="whatdadogdoing" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="(Jqb1b3WD$_o 4G_0025EDOP!;wf.resx" />
+    <EmbeddedResource Include="L47_tV91}lx=cDU!4n1=\]_007CDK$.resx" />
+    <EmbeddedResource Include="memeware\Resources\alarm.wav" />
+    <EmbeddedResource Include="memeware\Resources\amogas.wav" />
+    <EmbeddedResource Include="memeware\Resources\amogus.wav" />
+    <EmbeddedResource Include="memeware\Resources\amogus_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\apology.wav" />
+    <EmbeddedResource Include="memeware\Resources\avocado_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\backg.jpg" />
+    <EmbeddedResource Include="memeware\Resources\bad.wav" />
+    <EmbeddedResource Include="memeware\Resources\bass_imposta_sound.wav" />
+    <EmbeddedResource Include="memeware\Resources\ben_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\bom.wav" />
+    <EmbeddedResource Include="memeware\Resources\clap.wav" />
+    <EmbeddedResource Include="memeware\Resources\corrupted.wav" />
+    <EmbeddedResource Include="memeware\Resources\corrupted_small.wav" />
+    <EmbeddedResource Include="memeware\Resources\dad_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\dance1_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\dance2_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\dance3_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\dance4_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\dance5_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\fart.wav" />
+    <EmbeddedResource Include="memeware\Resources\fnaf.wav" />
+    <EmbeddedResource Include="memeware\Resources\guy_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\hell_no.wav" />
+    <EmbeddedResource Include="memeware\Resources\ice_cream.wav" />
+    <EmbeddedResource Include="memeware\Resources\ico_amogus_fix.ico" />
+    <EmbeddedResource Include="memeware\Resources\ico_chungus_fix.ico" />
+    <EmbeddedResource Include="memeware\Resources\obama_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\omg.wav" />
+    <EmbeddedResource Include="memeware\Resources\rock.wav" />
+    <EmbeddedResource Include="memeware\Resources\rock_eyebrow_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\scream.wav" />
+    <EmbeddedResource Include="memeware\Resources\skream_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\speedrunner_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\startup.exe" />
+    <EmbeddedResource Include="memeware\Resources\sussybaka.wav" />
+    <EmbeddedResource Include="memeware\Resources\the_wok_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\theme.wav" />
+    <EmbeddedResource Include="memeware\Resources\ustupid.wav" />
+    <EmbeddedResource Include="memeware\Resources\ustupid_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\walt_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\whatdadogdoing.wav" />
+    <EmbeddedResource Include="memeware\Resources\whenimpostaissus_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina1_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina10_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina11_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina12_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina13_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina14_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina15_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina16_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina17_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina18_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina19_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina2_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina20_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina21_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina22_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina23_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina3_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina4_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina5_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina6_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina7_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina8_icon.ico" />
+    <EmbeddedResource Include="memeware\Resources\xina9_icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
