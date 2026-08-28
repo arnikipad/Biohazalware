@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: \\VBOXSVR\B4s3\ToxicDatabase-main\GDI\Zika\Zika.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8E24ED20-AE69-4597-9AD1-4DDB60BA9F89}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>Zika</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>Zika</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EnumerableExtension.cs" />
+    <Compile Include="Desktop.cs" />
+    <Compile Include="Form1.cs" />
+    <Compile Include="Form2.cs" />
+    <Compile Include="Form3.cs" />
+    <Compile Include="Form4.cs" />
+    <Compile Include="Form5.cs" />
+    <Compile Include="Form6.cs" />
+    <Compile Include="Form7.cs" />
+    <Compile Include="Form8.cs" />
+    <Compile Include="Form9.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\Resources.cs" />
+    <Compile Include="Properties\Settings.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="beep" />
+    <Resource Include="NavaShield_Delete_C" />
+    <Resource Include="NavaShield_Laugh_1" />
+    <Resource Include="NavaShield_Laugh_2" />
+    <Resource Include="pig" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx" />
+    <EmbeddedResource Include="Form2.resx" />
+    <EmbeddedResource Include="Form3.resx" />
+    <EmbeddedResource Include="Form4.resx" />
+    <EmbeddedResource Include="Form5.resx" />
+    <EmbeddedResource Include="Form6.resx" />
+    <EmbeddedResource Include="Form7.resx" />
+    <EmbeddedResource Include="Form8.resx" />
+    <EmbeddedResource Include="Form9.resx" />
+    <EmbeddedResource Include="Properties\Resources.resx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
