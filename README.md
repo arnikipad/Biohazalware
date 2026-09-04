@@ -25,3 +25,13 @@ The contents of this repository may contain harmful or malicious code. Do not ex
 The Creator does not encourage unauthorized access, harmful deployment, or malicious use of any material contained in this repository.
 
 **Use responsibly.**
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=arnikipad%2Fbiohazalware&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=arnikipad/biohazalware&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=arnikipad/biohazalware&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=arnikipad/biohazalware&type=date&legend=top-left" />
+ </picture>
+</a>
