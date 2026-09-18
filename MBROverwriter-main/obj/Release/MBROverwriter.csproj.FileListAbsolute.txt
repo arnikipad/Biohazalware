@@ -1,0 +1,7 @@
+C:\Users\adriel\Downloads\MBROverwriter-main\MBROverwriter-main\bin\Release\MBROverwriter.exe.config
+C:\Users\adriel\Downloads\MBROverwriter-main\MBROverwriter-main\bin\Release\MBROverwriter.exe
+C:\Users\adriel\Downloads\MBROverwriter-main\MBROverwriter-main\bin\Release\MBROverwriter.pdb
+C:\Users\adriel\Downloads\MBROverwriter-main\MBROverwriter-main\obj\Release\MBROverwriter.csproj.AssemblyReference.cache
+C:\Users\adriel\Downloads\MBROverwriter-main\MBROverwriter-main\obj\Release\MBROverwriter.csproj.CoreCompileInputs.cache
+C:\Users\adriel\Downloads\MBROverwriter-main\MBROverwriter-main\obj\Release\MBROverwriter.exe
+C:\Users\adriel\Downloads\MBROverwriter-main\MBROverwriter-main\obj\Release\MBROverwriter.pdb
